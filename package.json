@@ -1,0 +1,23 @@
+{
+  "name": "test-express-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikloster03/test-express-docker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikloster03/test-express-docker/issues"
+  },
+  "homepage": "https://github.com/ikloster03/test-express-docker#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
